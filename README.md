@@ -15,3 +15,5 @@ Tutorial:
     5. Masukin limit data yang akan discrape
     
     5. enter
+
+![image](https://user-images.githubusercontent.com/73378179/200117788-7ca678fb-021e-4b81-986b-8e11a0f90cff.png)
